@@ -2,6 +2,10 @@
 
 This repository demonstrates how to implement Content Security Policy (CSP) with nonces in a Next.js TypeScript application. It showcases how to allow specific inline scripts while blocking others, enhancing security in a modern React application.
 
+## RuleCMS Engineering Blog
+
+Read the companion article on the RuleCMS site: **[Content Security Policy Nonces in Next.js](https://rulecms.com/engineering/csp-nonce-in-nextjs)**.
+
 ## What is Content Security Policy?
 
 Content Security Policy (CSP) is an added layer of security that helps to detect and mitigate certain types of attacks, including Cross-Site Scripting (XSS) and data injection attacks. CSP works by restricting the sources from which various content types can be loaded or executed.
